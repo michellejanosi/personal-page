@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
+  <meta name="description" content="Michelle Janosi is a professional
+        software engineer specializing in full-stack development.
+        She has extensive experience with Ruby, Rails, JavaScript,
+        and building web applications.">
+  <title>michellejano.si</title>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700,300|Nunito:200" rel="stylesheet"
+    type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Amatic+SC:700" rel="stylesheet" type="text/css">
+  <!-- <link rel="stylesheet" href="https://cdn.pride.codes/css/bar_body.css"> -->
+  <link href="style.css" rel="stylesheet" type="text/css">
+  <!-- favicon -->
+  <link rel="shortcut icon" href="favicon.gif" type="image/x-icon">
+</head>
+
+<body>
+  <div class="details">
+    <h1>michelle.</h1>
+    <img src="favicon.gif" alt="8 bit coffee">
+    <p>software developer.</p>
+    <p>
+      I am based in Cleveland/Akron, OH and specialize in building aesthetic websites, applications, and everything in between.
+    </p>
+  </div>
+
+  <div class="links">
+    <a href="mailto:hello@michellejano.si" class="top">hello@michellejano.si</a>
+    <a href="https://twitter.com/_mjelle" target="_blank" class="left">twitter - @_mjelle</a>
+    <a href="https://github.com/michellejanosi" target="_blank" class="right">github - @michellejanosi</a>
+    <a href="#" class="bottom">&copy; michellejano.si
+      <img src="favicon.gif" alt="8 bit coffee" width="11px"> 2020
+    </a>
+  </div>
+
+  <div class="mobile">
+    <div class="mobile-details">
+      <h1>mjelle.</h1>
+      <img src="favicon.gif" alt="8 bit coffee">
+      <p>software developer.</p>
+      <p>
+        I am based in Cleveland/Akron, OH and specialize in building aesthetic websites, applications, and everything in between.
+      </p>
+    </div>
+
+    <div class="mobile-links">
+      <a href="mailto:hello@michellejano.si" class="top">hello@michellejano.si</a>
+      <a href="" class="left">twitter - @_mjelle</a>
+      <a href="" class="right">github - @michellejanosi</a>
+    </div>
+  </div>
+</body>
+
+</html>
